@@ -14,6 +14,3 @@ def greet(who_to_greet):
 
 print(greet("Word"))
 print(greet("Railyn"))
-
-r = requests.get("https://coreyms.com")
-print(r.status_code)
