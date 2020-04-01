@@ -1,6 +1,5 @@
 import sys
 import requests
-from os import rename
 
 
 print(sys.version)
